@@ -1,8 +1,12 @@
 # M-Audio Pro 88 Keystation
 The firewire port is what we now use to transfer information, much like the older midi plugs. The problem is the square connector is not made to be beat up much. The keyboard itself weights 40 or more lbs as it has weighted keys, and feels decently close to a real piano for under a couple hundred dollars. We dropped it off the stand a few times, and had to solder the connection and even replace the connector attached to the board. Sadly enough on our last drop, it tore from the board and the replacement part was no longer available from the manufacturer. But, for tyhose of you still with one and want a little affirmation of what you are doing is plausible- here we go.
 
-Tools:
-
+### Tools:
+* Phillips head
+* Desoldering iron
+* Soldering iron
+* flux
+* solder
 
 <img src="./images/20190913_080026.jpg">
 
