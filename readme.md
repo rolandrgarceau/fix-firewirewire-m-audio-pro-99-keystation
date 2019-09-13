@@ -10,7 +10,7 @@ The firewire port is what we now use to transfer information, much like the olde
 
 <img src="./images/20190913_080026.jpg">
 
-First there are a lot of ribbon cables. The good thing is that they all are specific to location and are different types- but if you are doing the same fix on another similar keyboard make sure you snap a shot of the setup just in case you mind isn't photographic. 
+First there are a lot of ribbon cables. The good thing is that they all are specific to location and are different types- but if you are doing the same fix on another similar keyboard make sure you snap a shot of the setup just in case your mind isn't photographic. 
 
 <img src="./images/20180906_123015.jpg">
 
