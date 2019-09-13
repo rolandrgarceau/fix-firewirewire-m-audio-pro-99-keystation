@@ -14,7 +14,7 @@ First there are a lot of ribbon cables. The good thing is that they all are spec
 
 <img src="./images/20180906_123015.jpg">
 
-Thre board we want to isolate will be the one that has the 1/4" jacks also attached.
+The board we want to isolate will be the one that has the 1/4" jacks also attached.
 
 <img src="./images/20180906_121411.jpg">
 
